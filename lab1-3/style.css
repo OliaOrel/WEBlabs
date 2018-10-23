@@ -1,0 +1,26 @@
+body {
+  align: center;
+  font-family: Times;
+  font-size: 200%;
+  text-indent: 1cm;
+}
+
+a {
+  text-decoration: none;
+  color: #191970;
+}
+
+a:hover {
+  color: #7B68EE;
+}
+
+.block {
+  display: inline-block;
+  float: none;
+  box-sizing: border-box;
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,violet);
+  padding-right: 40px;
+  border: solid 1px navy;
+  border-radius: 7px;
+  margin-bottom: 20px;
+ }
